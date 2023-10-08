@@ -1,0 +1,12 @@
+10 10 1
+WWWWWWWWWW
+W1......1W
+W........W
+W......b.W
+W...ww...W
+W...ww...W
+W........W
+W........W
+W1......1W
+WWWWDDWWWW
+S 2 4 9

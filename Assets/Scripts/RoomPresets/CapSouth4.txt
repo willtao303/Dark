@@ -1,0 +1,6 @@
+4 4 1
+WWWW
+WuUW
+WuuW
+WDDW
+S 2 1 3

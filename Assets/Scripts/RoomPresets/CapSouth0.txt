@@ -1,0 +1,6 @@
+4 4 1
+WWWW
+W.FW
+W..W
+WDDW
+S 2 1 3

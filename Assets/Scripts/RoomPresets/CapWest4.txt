@@ -1,0 +1,6 @@
+4 4 1
+WWWW
+DrRW
+DrrW
+WWWW
+W 2 0 1

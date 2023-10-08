@@ -1,0 +1,8 @@
+6 6 1
+WWWWWW
+W1..1W
+W..b.W
+W....W
+W1..1W
+WWDDWW
+S 2 2 5

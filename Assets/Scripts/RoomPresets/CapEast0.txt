@@ -1,0 +1,6 @@
+4 4 1
+WWWW
+W.FD
+W..D
+WWWW
+E 2 3 1

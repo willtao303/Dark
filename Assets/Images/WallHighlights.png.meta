@@ -1,0 +1,1304 @@
+fileFormatVersion: 2
+guid: 1515642f463b8104abd2515307fce508
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WallHighlights_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -14}
+        - {x: -6, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: 1}
+        - {x: 7, y: 1}
+        - {x: 6, y: 0}
+        - {x: 6, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529a3c34ba617914fac6e0ed978a7d39
+      internalID: 1130266864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 112
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 1}
+        - {x: -10, y: 10}
+        - {x: 6, y: 10}
+        - {x: 6, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f693b8356f1b04fb915f0bc3dcce89
+      internalID: 1353136237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -14}
+        - {x: -6, y: 1}
+        - {x: -10, y: 1}
+        - {x: -10, y: 10}
+        - {x: 6, y: 10}
+        - {x: 6, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e360d0648099e854dbb8246e2b2abded
+      internalID: -1976265763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 112
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -14}
+        - {x: -6, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db9afe4e5dafcf4eb0af1f31b5aa60c
+      internalID: 329140769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: -14}
+        - {x: -10, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bde6555c1fdf743833a64525c7e772
+      internalID: -1029314220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 112
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: -14}
+        - {x: -10, y: 10}
+        - {x: 6, y: 10}
+        - {x: 6, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca7c78eeacfb8148b2457fe0ce93c86
+      internalID: -2026356616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 112
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: -14}
+        - {x: -10, y: 14}
+        - {x: 10, y: 14}
+        - {x: 10, y: 1}
+        - {x: 6, y: 1}
+        - {x: 6, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c32c76be2e984644bf70707cecbbdef
+      internalID: -541920381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 112
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: 1}
+        - {x: 6, y: -14}
+        - {x: -6, y: -14}
+        - {x: -6, y: 1}
+        - {x: -10, y: 1}
+        - {x: -10, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a8771a751b62542a453e426c9eba13
+      internalID: -107863571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -14}
+        - {x: -6, y: 1}
+        - {x: -10, y: 1}
+        - {x: -10, y: 14}
+        - {x: 10, y: 14}
+        - {x: 10, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295c184c2ff23c74ab1389a5ed17b249
+      internalID: 1319432388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -14}
+        - {x: -6, y: 10}
+        - {x: 6, y: 10}
+        - {x: 6, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019b7c43bbac0dc4ab5ae59541f374ab
+      internalID: -2026935355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 84
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 1}
+        - {x: -6, y: 10}
+        - {x: 6, y: 10}
+        - {x: 6, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f849bb63b4248f24a93054e73a1badce
+      internalID: -1774144663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 84
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 1}
+        - {x: -6, y: 14}
+        - {x: 6, y: 14}
+        - {x: 6, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160f04ba7366f46458202272eb41114a
+      internalID: -175756267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 84
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -14}
+        - {x: -6, y: 14}
+        - {x: 10, y: 14}
+        - {x: 10, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a8af60d14e7184793fe865c41ff8c7
+      internalID: -1756239534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 84
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: -14}
+        - {x: -10, y: 14}
+        - {x: 6, y: 14}
+        - {x: 6, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb2109bbc2a7e544a5873ce3a142a68
+      internalID: -2036493683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 84
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -14}
+        - {x: -6, y: 14}
+        - {x: 6, y: 14}
+        - {x: 6, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: 1}
+        - {x: 6, y: 1}
+        - {x: 6, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: df728074447bf5948a43891cde86dd4f
+      internalID: 36895088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 84
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: 2}
+        - {x: 6, y: -14}
+        - {x: -6, y: -14}
+        - {x: -6, y: 2}
+        - {x: -10, y: 2}
+        - {x: -10, y: 10}
+        - {x: -6, y: 10}
+        - {x: -6, y: 14}
+        - {x: 6, y: 14}
+        - {x: 6, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330d4b94517b1534183d51d22cef260d
+      internalID: -1586276707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 84
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -14}
+        - {x: -6, y: 1}
+        - {x: -10, y: 1}
+        - {x: -10, y: 10}
+        - {x: -6, y: 10}
+        - {x: -6, y: 14}
+        - {x: 6, y: 14}
+        - {x: 6, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a81144b8dfed764fa7fd9993d04e2bd
+      internalID: -1290636143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 1}
+        - {x: -6, y: 14}
+        - {x: 6, y: 14}
+        - {x: 6, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1b1a5c0f0097b4d9bb3ce93a679e74
+      internalID: -1912734465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 56
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 1}
+        - {x: -6, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ea09947e6cbcb4eb8f481897f88341
+      internalID: 1089851791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 1}
+        - {x: -10, y: 10}
+        - {x: -6, y: 10}
+        - {x: -6, y: 14}
+        - {x: 6, y: 14}
+        - {x: 6, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecdf3770cfd83649a8beb0fbcba7a72
+      internalID: 195647422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 56
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 1}
+        - {x: -6, y: 14}
+        - {x: 10, y: 14}
+        - {x: 10, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0d4a0e81348794db34c2bb9987642c
+      internalID: 375088356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 1}
+        - {x: -10, y: 14}
+        - {x: 10, y: 14}
+        - {x: 10, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4593454d71baac3419913d195eb1de72
+      internalID: 1370169355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 56
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 1}
+        - {x: -10, y: 14}
+        - {x: 6, y: 14}
+        - {x: 6, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a963cc9b3316343bcdc98e6031b171
+      internalID: -893112825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: -14}
+        - {x: -10, y: 14}
+        - {x: 6, y: 14}
+        - {x: 6, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f2c0d30c7cdd046ae122d6c022c209
+      internalID: -825132551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 56
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 1}
+        - {x: -10, y: 10}
+        - {x: -6, y: 10}
+        - {x: -6, y: 14}
+        - {x: 6, y: 14}
+        - {x: 6, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af690d5dece601844b9a09c7cdf75ac3
+      internalID: 141565252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 56
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: -14}
+        - {x: -10, y: 10}
+        - {x: -6, y: 10}
+        - {x: -6, y: 14}
+        - {x: 10, y: 14}
+        - {x: 10, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d757cfe53f55540bb26e693c9b13ce
+      internalID: -1494047240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 1}
+        - {x: -10, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447c6335f30a65547a5578718acbbbbc
+      internalID: -1109959584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 28
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -14}
+        - {x: -6, y: 1}
+        - {x: -10, y: 1}
+        - {x: -10, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559204fdf34ecd5468eff60b0d7c4fc6
+      internalID: 364544384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 28
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: -14}
+        - {x: -10, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: 1}
+        - {x: 6, y: 1}
+        - {x: 6, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ebc87b398e969489f19f8d258c783f
+      internalID: 909615048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 28
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -14}
+        - {x: -6, y: 14}
+        - {x: 6, y: 14}
+        - {x: 6, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639ddaee62bf95a4ab6aec2ad01a9a07
+      internalID: 1977820695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 28
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: -14}
+        - {x: -10, y: 10}
+        - {x: -6, y: 10}
+        - {x: -6, y: 14}
+        - {x: 6, y: 14}
+        - {x: 6, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4577718f388514b9be1114c2a019e9
+      internalID: 1883151752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 28
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4c6e993d8375e42bba092e9349f87c
+      internalID: -313916459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 28
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fea37a926ce2f347ade80bba7b54fa8
+      internalID: -1299249639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_33
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 28
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deba386593bac2b459c9d0061076be20
+      internalID: 449786528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 28
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126712bbe3eb61042aeb1dc3ef9da6ff
+      internalID: 461097391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -14}
+        - {x: -6, y: 14}
+        - {x: 6, y: 14}
+        - {x: 6, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f12d7fc37adc840b275ceacc2792c4
+      internalID: 1833335000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 1}
+        - {x: -10, y: 10}
+        - {x: -6, y: 10}
+        - {x: -6, y: 14}
+        - {x: 10, y: 14}
+        - {x: 10, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc6a926ed0b85342b24023ba1c96ca4
+      internalID: -957178847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 1}
+        - {x: -10, y: 14}
+        - {x: 6, y: 14}
+        - {x: 6, y: 10}
+        - {x: 10, y: 10}
+        - {x: 10, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcca13935cc613459cdc5bbe0816053
+      internalID: 2132785380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_38
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: 1}
+        - {x: 6, y: -14}
+        - {x: -6, y: -14}
+        - {x: -6, y: 14}
+        - {x: 10, y: 14}
+        - {x: 10, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80edf6eee2c702e4da1b519069033e2d
+      internalID: -1259684399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -14}
+        - {x: -6, y: 1}
+        - {x: -10, y: 1}
+        - {x: -10, y: 14}
+        - {x: 6, y: 14}
+        - {x: 6, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f706d28c17a72478fbaabd04297027
+      internalID: 1603753762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ee2d10d22ad5d4eba8815bfe89110a
+      internalID: 899838701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9663010d88ea9d746b7307785b2adf90
+      internalID: -1470334858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_42
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ca85276696d3f40bbe3acdf186b5aa
+      internalID: -47605162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallHighlights_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84235c8a8cb81aa4681ccdf89b8244d5
+      internalID: -199550569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WallHighlights_27: 364544384
+      WallHighlights_38: -1259684399
+      WallHighlights_0: 1130266864
+      WallHighlights_32: -1299249639
+      WallHighlights_34: 461097391
+      WallHighlights_31: -313916459
+      WallHighlights_23: -825132551
+      WallHighlights_21: 1370169355
+      WallHighlights_42: -47605162
+      WallHighlights_14: 36895088
+      WallHighlights_37: 2132785380
+      WallHighlights_11: -175756267
+      WallHighlights_43: -199550569
+      WallHighlights_10: -1774144663
+      WallHighlights_26: -1109959584
+      WallHighlights_33: 449786528
+      WallHighlights_29: 1977820695
+      WallHighlights_5: -2026356616
+      WallHighlights_1: 1353136237
+      WallHighlights_30: 1883151752
+      WallHighlights_2: -1976265763
+      WallHighlights_6: -541920381
+      WallHighlights_35: 1833335000
+      WallHighlights_4: -1029314220
+      WallHighlights_25: -1494047240
+      WallHighlights_36: -957178847
+      WallHighlights_12: -1756239534
+      WallHighlights_3: 329140769
+      WallHighlights_16: -1290636143
+      WallHighlights_22: -893112825
+      WallHighlights_13: -2036493683
+      WallHighlights_28: 909615048
+      WallHighlights_39: 1603753762
+      WallHighlights_40: 899838701
+      WallHighlights_8: 1319432388
+      WallHighlights_18: 1089851791
+      WallHighlights_9: -2026935355
+      WallHighlights_15: -1586276707
+      WallHighlights_20: 375088356
+      WallHighlights_7: -107863571
+      WallHighlights_41: -1470334858
+      WallHighlights_24: 141565252
+      WallHighlights_17: -1912734465
+      WallHighlights_19: 195647422
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
